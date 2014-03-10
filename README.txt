@@ -3,7 +3,7 @@ Machine Learning on Coursera, offered by Stanford.
 
 This code is written in GNU Octave.
 
-If you want quickly find where I have written code, 
+If you want to quickly find where I have written code, 
 you can look at the pdf describing the exercise.  
 Near the top is a list of the files.  Ones marked 
 with a * are ones where I had to implement 
